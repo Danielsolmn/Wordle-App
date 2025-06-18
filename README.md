@@ -35,6 +35,8 @@ The following **additional** features are implemented:
 ## Notes
 
 Describe any challenges encountered while building the app.
+    
+    Understanding and using type casting was tricky . 
 
 ## License
 
